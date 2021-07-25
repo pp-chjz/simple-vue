@@ -1,0 +1,52 @@
+[
+    {
+
+        "income_cash": 1000000,
+        "expenses_cash":  0,
+        "date": "01/01/2565",
+        "note": "got money form work",
+        "number":1000000
+    },
+    {
+
+        "income_cash": 0,
+        "expenses_cash":  500000,
+        "date": "02/01/2564",
+        "note": "buy notebook",
+        "number":-5000
+    },
+    {
+
+        "income_cash": 2000,
+        "expenses_cash":  100,
+        "date": "03/01/2564",
+        "note": "my friend give me money and i bought some snack",
+        "number": 1900
+    },
+    {
+
+        "income_cash": 0,
+        "expenses_cash":  4500,
+        "date": "04/01/2564",
+        "note": "travel",
+        "number":-4500
+    },
+    {
+
+        "income_cash": 100,
+        "expenses_cash":  5500,
+        "date": "05/01/2564",
+        "note": "travel",
+        "number":5500
+    },
+    {
+
+        "income_cash": 100000,
+        "expenses_cash":  0,
+        "date": "07/01/2564",
+        "note": "got money form work",
+        "number":100000
+    }
+    
+
+]
