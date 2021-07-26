@@ -42,10 +42,10 @@ export default {
         return{
             form:{
                 No: 1,
-                income_cash: '',
-                expenses_cash: '',
+                income_cash: 0,
+                expenses_cash: 0,
                 date: '',
-                note: '',
+                note: '-',
                 number: 0
             }
         }
@@ -54,10 +54,10 @@ export default {
     methods:{  
         clearForm(){
             this.form = {
-                income_cash: '',
-                expenses_cash: '',
+                income_cash: 0,
+                expenses_cash: 0,
                 date: '',
-                note: '',
+                note: '-',
                 number: 0
             }
         },
